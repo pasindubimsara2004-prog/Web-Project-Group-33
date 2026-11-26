@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <radialGradient id="grad9" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="60%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="#090d16"/>
+  <circle cx="400" cy="270" r="160" fill="url(#grad9)" opacity="0.65"/>
+  <!-- 3D Polyhedron wireframe lines -->
+  <g stroke="#38bdf8" stroke-width="2.5" fill="none" opacity="0.85">
+    <polygon points="400,140 510,230 400,380 290,230"/>
+    <line x1="400" y1="140" x2="400" y2="380"/>
+    <line x1="290" y1="230" x2="510" y2="230"/>
+    <circle cx="400" cy="140" r="5" fill="#38bdf8"/>
+    <circle cx="510" cy="230" r="5" fill="#38bdf8"/>
+    <circle cx="400" cy="380" r="5" fill="#38bdf8"/>
+    <circle cx="290" cy="230" r="5" fill="#38bdf8"/>
+  </g>
+  <rect x="50" y="490" width="700" height="80" rx="10" fill="rgba(0,0,0,0.6)"/>
+  <text x="400" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Spirit of Innovation</text>
+  <text x="400" y="552" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="400" fill="#cbd5e1" text-anchor="middle">Medium: Blender 3D &amp; Vector Art</text>
+</svg>

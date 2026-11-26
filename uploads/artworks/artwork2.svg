@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="artgrad_artwork2.svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#1e40af" />
+    </linearGradient>
+    <radialGradient id="sun_artwork2.svg" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.25)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#artgrad_artwork2.svg)"/>
+  <rect width="800" height="600" fill="url(#sun_artwork2.svg)"/>
+  
+  <circle cx="400" cy="250" r="130" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <text x="400" y="275" font-size="80" text-anchor="middle" dominant-baseline="middle">🏙️</text>
+  
+  <rect x="50" y="450" width="700" height="110" rx="12" fill="rgba(0,0,0,0.45)" backdrop-filter="blur(10px)"/>
+  <text x="400" y="495" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">Cybernetic Green Metropolis</text>
+  <text x="400" y="530" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="400" fill="rgba(255,255,255,0.85)" text-anchor="middle">Medium: Digital Art (Photoshop)</text>
+</svg>

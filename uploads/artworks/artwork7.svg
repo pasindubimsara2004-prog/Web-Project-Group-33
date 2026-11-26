@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c1810"/>
+      <stop offset="100%" stop-color="#4a2c1d"/>
+    </linearGradient>
+    <linearGradient id="wood1" x1="0%" y1="0%" x2="100%" y2="80%">
+      <stop offset="0%" stop-color="#d49b56"/>
+      <stop offset="50%" stop-color="#a0632b"/>
+      <stop offset="100%" stop-color="#643b17"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg7)"/>
+  <ellipse cx="400" cy="520" rx="260" ry="40" fill="rgba(0,0,0,0.5)"/>
+  <!-- Sculptural petals -->
+  <path d="M400,100 C470,220 540,360 400,480 C260,360 330,220 400,100 Z" fill="url(#wood1)" opacity="0.95"/>
+  <path d="M400,140 C440,240 500,340 400,450 C300,340 360,240 400,140 Z" fill="#643b17" opacity="0.4"/>
+  <path d="M400,180 C480,240 510,380 400,430 C290,380 320,240 400,180 Z" fill="url(#wood1)" opacity="0.85"/>
+  <rect x="50" y="490" width="700" height="80" rx="10" fill="rgba(0,0,0,0.6)"/>
+  <text x="400" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Upcycled Teak Wood Abstract Bloom</text>
+  <text x="400" y="552" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="400" fill="#cbd5e1" text-anchor="middle">Medium: Reclaimed Teak &amp; Beeswax Finish</text>
+</svg>
