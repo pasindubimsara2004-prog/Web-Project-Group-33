@@ -44,33 +44,6 @@ NSBM ArtCraft is a web-based arts and handcraft showcasing platform built for st
 
 ---
 
-## Setup Instructions (XAMPP)
-
-1. Start **Apache** and **MySQL** from the XAMPP Control Panel.
-2. Copy or clone the project folder into `C:\xampp\htdocs\nsbm-artcraft`.
-3. Open your browser and run the database installer:
-   ```
-   http://localhost/nsbm-artcraft/install.php
-   ```
-4. Click **Install Database & Seed Data** to create the `nsbm_artcraft` database and populate sample records.
-5. Visit the homepage at:
-   ```
-   http://localhost/nsbm-artcraft/
-   ```
-
----
-
-## Default Test Accounts
-
-| Role | Email | Password |
-| :--- | :--- | :--- |
-| **Admin** | `admin@nsbm.ac.lk` | `admin123` |
-| **Student 1** | `student1@nsbm.ac.lk` | `student123` |
-| **Student 2** | `student2@nsbm.ac.lk` | `student123` |
-| **Student 3** | `student3@nsbm.ac.lk` | `student123` |
-| **Student 4** | `student4@nsbm.ac.lk` | `student123` |
-
----
 
 ## Project Structure
 
